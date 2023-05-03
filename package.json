@@ -1,6 +1,5 @@
 {
-  "name": "clientegraphql",
-  "homepage": "cliente",
+  "name": "clientegraphql",  
   "description": "client",
   "version": "0.1.0",
   "private": true,
